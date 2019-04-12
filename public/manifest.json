@@ -1,0 +1,15 @@
+{
+  "short_name": "SP",
+  "name": "Sao Paulo",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "58x58 26x26 18x18 10x10",
+      "type": "image/x-icon"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#00ff00",
+  "background_color": "#ffffff"
+}
